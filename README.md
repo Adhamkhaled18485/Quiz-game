@@ -1,1 +1,1 @@
-#quizgame!
+#quizzgame!
